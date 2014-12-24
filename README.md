@@ -9,6 +9,4 @@ perlcron is a hard troll, but perhaps it will work and be useful one day.
 
 #Development Environment 
 
-Perlcron is currently being built in debian stable which includes perl version 5.14. The following packages must be installed in the dev environment. 
-
-* libperl-dev 
+Perlcron is currently being built in Debian stable [Wheezy]  which includes perl version 5.14. 
